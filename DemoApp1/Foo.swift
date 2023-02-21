@@ -7,7 +7,7 @@
 
 import Foundation
 
-final class Foo {
+final class Foo2 {
 
     var value = false
 

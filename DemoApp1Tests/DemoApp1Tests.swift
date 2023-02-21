@@ -20,7 +20,7 @@ final class DemoApp1Tests: XCTestCase {
     
     func testFoo() {
         // arrange & act
-        let foo = Foo()
+        let foo = Foo2()
         
         // assert
         XCTAssertEqual(foo.value, false)
